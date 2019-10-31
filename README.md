@@ -1,3 +1,3 @@
 # Honoss33_blog.github.io
 personalBlog
-ESTA CARPETA POSEE INFORMACION VALIOSA PARA MI BLOG
+This carpet has value information to my blog
